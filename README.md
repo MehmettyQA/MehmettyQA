@@ -1,6 +1,6 @@
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h5 align="center">ISTQB certified Full Stack SDET with core Selenium, Database, and API testing experience to provide outstanding assistance in a team-oriented Agile environment, utilizing proficiency in the SDLC, STLC and technical knowledge of automation and development experience with domain knowledge in Finance, Hospitality Industrie applications.</h5>
+<h5 align="center">ISTQB certified Full Stack SDET with core Selenium, Database, and API testing experience to provide outstanding assistance in a team-oriented Agile environment, utilizing proficiency in the SDLC, STLC and technical knowledge of automation and development experience with domain knowledge in Finance and Hospitality Industrie applications.</h5>
 
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
