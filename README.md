@@ -4,13 +4,13 @@
 
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=Mehmetty77&label=Profile%20views&color=0e75b6&style=flat" alt="Mehmetty77" /> 
+	<img src="https://komarev.com/ghpvc/?username=MehmettyQA&label=Profile%20views&color=0e75b6&style=flat" alt="MehmettyQA" /> 
 </p>
 
 <!-- trophies. replace username with yours-->
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=Mehmetty77" alt="Mehmetty77" />
+		<img src="https://github-profile-trophy.vercel.app/?username=MehmettyQA" alt="MehmettyQA" />
 	</a> 
 </p>
 
@@ -62,17 +62,17 @@
 
 <!-- top languages that is used -->
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmetty77&show_icons=true&locale=en&layout=compact" alt="Mehmetty77" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehmettyQA&show_icons=true&locale=en&layout=compact" alt="MehmettyQA" />
 </p>
 
 <!--  github stats  -->
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehmetty77&show_icons=true&locale=en" alt="Mehmetty77" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=MehmettyQA&show_icons=true&locale=en" alt="MehmettyQA" />
 </p>
 
 <!-- streak stats  -->
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehmetty77&" alt="Mehmetty77" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehmettyQA&" alt="MehmettyQA" />
 </p>
 
 
@@ -83,7 +83,7 @@
 
 
 <!--
-**Mehmetty77/Mehmetty77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MehmettyQA/MehmettyQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
