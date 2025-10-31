@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About
-Detail-oriented, curious **Quality Assurance Engineer** specializing in **test automation** for **Azure**-based microservice architectures. Experienced across **UI, API, and messaging** testing, **CI/CD integration**, and **performance analysis**—with domain focus in **Finance** and **Telecom**. I ship clean, maintainable test suites and measurable impact on stability and time-to-release.
+Detail-oriented, curious **Quality Assurance Engineer** specializing in **test automation** for **Azure**-based microservice architectures. Experienced across **UI, API, and messaging** testing, **CI/CD integration**, and **performance analysis**—with domain focus in **Finance** and **Telecommunication**. I ship clean, maintainable test suites and measurable impact on stability and time-to-release.
 
 ---
 
