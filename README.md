@@ -1,6 +1,6 @@
 <!-- Profile: Mehmet Toy | QA & Test Automation -->
 <h1 align="center">👋 Hi, I'm Mehmet</h1>
-<h3 align="center">QA & Test Automation • Selenide • CI/CD • Playwright • Kotlin/Java/TypeScript • AI‑Integrated Test Automation</h3>
+<h3 align="center">Quality Assurance • CI/CD • Playwright • AI‑Integrated Test Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmet-toy-qa/" target="_blank">
