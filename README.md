@@ -1,6 +1,6 @@
 <!-- Profile: Mehmet Toy | QA & Test Automation -->
 <h1 align="center">👋 Hi, I'm Mehmet</h1>
-<h3 align="center">QA & Test Automation • Azure • Kafka • Playwright • Kotlin/Java/TypeScript</h3>
+<h3 align="center">QA & Test Automation • Selenide • CI/CD • Playwright • Kotlin/Java/TypeScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmet-toy-qa/" target="_blank">
@@ -49,7 +49,6 @@ Detail-oriented, curious **Quality Assurance Engineer** specializing in **test a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="36" height="36"/>
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" alt="JMeter" width="36" height="36"/>
 </p>
 
 ---
@@ -64,13 +63,6 @@ Detail-oriented, curious **Quality Assurance Engineer** specializing in **test a
 - Ran defect lifecycle: triage, RCA, verification, escape analysis & prevention.
 
 ---
-
-### 📌 Selected repositories
-> Replace placeholders with your real repos (e.g., E2E framework, API tests, Kafka examples, JMeter scripts).
-- 🔗 **E2E UI Tests (Playwright/Selenide)** – https://github.com/MehmettyQA/<your-repo>
-- 🔗 **API Tests (Karate/Spring Boot Test/REST Assured)** – https://github.com/MehmettyQA/<your-repo>
-- 🔗 **Kafka Integration Tests** – https://github.com/MehmettyQA/<your-repo>
-- 🔗 **JMeter Load Tests** – https://github.com/MehmettyQA/<your-repo>
 
 ---
 
