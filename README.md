@@ -1,6 +1,6 @@
 <!-- Profile: Mehmet Toy | QA & Test Automation -->
 <h1 align="center">👋 Hi, I'm Mehmet</h1>
-<h3 align="center">QA & Test Automation • Selenide • CI/CD • Playwright • Kotlin/Java/TypeScript</h3>
+<h3 align="center">QA & Test Automation • Selenide • CI/CD • Playwright • Kotlin/Java/TypeScript • AI‑Integrated Test Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmet-toy-qa/" target="_blank">
@@ -27,6 +27,17 @@ Detail-oriented, curious **Quality Assurance Engineer** specializing in **test a
 - **Manual & exploratory testing** on critical paths, UAT support, and release readiness.
 
 ---
+---
+
+### 🤖 AI‑Integrated Test Automation
+- Applied **AI assistance with Playwright** via **MCP (Model Context Protocol)** to automate routine QA tasks and connect tools/data to test workflows.
+- Used **Agent Mode features** (tool use / function calling, retrieval, code actions) to **generate test scaffolds**, **self‑heal locators**, and **triage flaky tests**.
+- Built **prompted RCA** pipelines: summarize failures, surface logs/metrics, and propose fixes with traceable context.
+- Generated **synthetic test data** safely; enforced privacy by design for non‑production datasets.
+- Documented **AI usage guidelines** (risk/benefit, human‑in‑the‑loop, reproducibility) for the team.
+
+> *Positioning:* Experienced in **AI‑integrated QA**; comfortable designing agent workflows around Playwright, CI, and observability.
+
 
 ### 🧰 Tech Stack 
 <p>
@@ -48,6 +59,9 @@ Detail-oriented, curious **Quality Assurance Engineer** specializing in **test a
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36" height="36"/>
 </p>
+
+<p><em>AI & Agents:</em> OpenAI Agent Mode (MCP), LLMs (prompt engineering, tool/function calling), AI‑assisted Playwright workflows</p>
+
 
 ---
 
