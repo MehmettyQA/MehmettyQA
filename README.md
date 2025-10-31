@@ -26,11 +26,9 @@ Detail-oriented, curious **Quality Assurance Engineer** specializing in **test a
 - **Test management**: strategy, plans, acceptance criteria, defect lifecycle; tight collaboration with Dev/PO/Operations.
 - **Manual & exploratory testing** on critical paths, UAT support, and release readiness.
 
-> *Result examples:* regression time −**30–50%**, flake rate < **X%**, prod defects −**Y%** (adjust to your metrics).
-
 ---
 
-### 🧰 Tech Stack (selection)
+### 🧰 Tech Stack 
 <p>
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/>
