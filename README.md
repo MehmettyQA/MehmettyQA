@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 About
-Detail-oriented, curious **Quality Assurance Engineer** specializing in **test automation** for **Azure**-based microservice architectures. Experienced across **UI, API, and messaging** testing, **CI/CD integration**, and **performance analysis**—with domain focus in **Finance** and **Telecommunication**. I ship clean, maintainable test suites and measurable impact on stability and time-to-release.
+Detail-oriented, curious **Quality Assurance Engineer** specializing in **test automation** for **Cloud**-based microservice architectures. Experienced across **UI, API, and messaging** testing, **CI/CD integration**, and **performance analysis**—with domain focus in **Finance** and **Telecommunication**. I ship clean, maintainable test suites and measurable impact on stability and time-to-release.
 
 ---
 
-### ✅ How I moved teams forward
+### ✅ Skills
 - **E2E automation** across **UI** (Playwright, Selenide) and **API/Service** (Karate, Spring Boot Test) in **Kotlin/Java/TypeScript**.
 - **Kafka integration testing**: producer/consumer flows, offsets, DLQ, and contract checks.
 - **CI/CD**: GitHub Actions & Azure DevOps—parallel runs, artifacts/reports, flakiness control.
